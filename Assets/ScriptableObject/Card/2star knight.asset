@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5c1c61faa4e66f44ba21c89f264b370, type: 3}
+  m_Name: 2star knight
+  m_EditorClassIdentifier: 
+  cardImage:
+  - {fileID: 2120042908, guid: 71ad172f81917dc4c88b385499ba85c4, type: 3}
+  - {fileID: 612940663, guid: 91ece539279118a438c900dfb08582ed, type: 3}
+  - {fileID: -644079835, guid: d529f63f32c1a2b438dc3ffcf58f7a73, type: 3}
+  - {fileID: -1431562146, guid: d529f63f32c1a2b438dc3ffcf58f7a73, type: 3}
+  - {fileID: -616770807, guid: d529f63f32c1a2b438dc3ffcf58f7a73, type: 3}
+  - {fileID: 927755785, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: 927755785, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: 927755785, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: 1629502028, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: -1751398833, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: 927755785, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: -1664420051, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: -1797174535, guid: b2713bbf286ea3b4d8cf4478d348ee16, type: 3}
+  - {fileID: 21300000, guid: 141534caf918a8c4ba95df7c5bd5a74f, type: 3}
+  Hp: 10
+  Atk: 3
+  nextCard: {fileID: 11400000, guid: 954f5110d405e954781ac7e9f396874c, type: 2}
